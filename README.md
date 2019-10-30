@@ -22,6 +22,13 @@ Known issues:
 Application is capable to handle only .csv file, where there isn't empty spaces (Project version 1.0)
 
 
+Approach to solve the challenge:
+
+ Was decided to make methods in another class, which will provides concrete implementation for some functions.
+In main class (Application.class) remained only needed some lines, which, I hope, provides better understanding of the application.
+Some functional was not created/finished due to missunderstanding of the main goal of it.
+
+
 
                
 Contact details:
